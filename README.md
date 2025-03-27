@@ -54,4 +54,16 @@ No installation is needed — just click, type, and predict 🎯
 3. Run the Streamlit app:
    streamlit run netflix_predictor_app.py
 
-    
+👤 About Me
+Ivy Wanjiku
+ML Engineer | UI-Lover | Data-Driven Dreamer
+📫 LinkedIn | GitHub
+
+🙏 Acknowledgments
+Netflix for the dataset inspiration
+
+Streamlit for making app building fun
+
+Scikit-learn for classic ML goodness
+
+ 
