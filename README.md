@@ -2,13 +2,13 @@
 
 A machine learning web app that predicts the **Netflix content rating** (e.g., `PG-13`, `TV-MA`, `R`) based on a show's description, duration, release year, and type.
 
-Built with 💡 Scikit-Learn + 🧠 Natural Language Processing + 🔥 Streamlit — styled with full Netflix vibes including dark mode, logo, and a theme switcher.
+Built with 💡 Scikit-Learn + 🧠 Natural Language Processing + 🔥 Streamlit — styled with full Netflix vibes, including dark mode, logo, and a theme switcher.
 
 ---
 
 ### 🚀 Live Demo  
 👉 [Try the App Live on Streamlit Cloud](https://neflix-rating-nixob3kmcqeqecpxyjq9sa.streamlit.app/)  
-No install needed — just click, type, and predict 🎯
+No installation is needed — just click, type, and predict 🎯
 
 ---
 
@@ -49,3 +49,9 @@ No install needed — just click, type, and predict 🎯
    ```bash
    git clone https://github.com/Ivy-Wanjiku/Neflix-rating.git
    cd Neflix-rating
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the Streamlit app:
+   streamlit run netflix_predictor_app.py
+
+    
