@@ -60,6 +60,7 @@ ML Engineer | UI-Lover | Data-Driven Dreamer
 📫 LinkedIn | GitHub
 
 🙏 Acknowledgments
+
 Netflix for the dataset inspiration
 
 Streamlit for making app building fun
